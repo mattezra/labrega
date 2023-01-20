@@ -1,2 +1,1 @@
-# labrega
-Labrega Digital Services Website
+# Labrega Digital Services Website
